@@ -1,0 +1,6 @@
+## dataset links :https://www.kaggle.com/datasets/emmarex/plantdisease
+
+## We have taken the three types of the plant pepper plant , potato plant and the tomato plant 
+
+## our dataset is the size of around approx 1gb
+

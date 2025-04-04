@@ -1,0 +1,1 @@
+image_path = "C:/Users/kawal/Desktop/Mini-Project/Plant-Disease-Detectio/test_images/sample.jpg"
